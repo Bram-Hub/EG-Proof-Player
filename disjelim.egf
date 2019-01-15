@@ -1,0 +1,8 @@
+StartEGProof
+(A|)((A|)(B|))
+Deiteration
+(A|)((B|))
+Erasure
+((B|))
+Double Cut - Shows Disjunction Elimination
+B|
